@@ -1,6 +1,6 @@
 ## Hello 👋
 My name is Darren Summerlee, and I'm a student and tutor at UNC Charlotte, studying Mathematics and Data Science! (Spring '26)
-- 🔭 I’m currently working as an Automation and Data Management Intern at Brandsymbol.
+- 🔭 I’m currently working as an Automation and Data Management Intern at Brandsymbol (Fall 2025).
 - I recently completed undergraduate research, performing data analytics on health metrics in R.
 - 📫 How to reach me: darrentsumm@gmail.com
 <!--
