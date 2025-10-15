@@ -1,6 +1,7 @@
 ## Hello 👋
 My name is Darren Summerlee, and I'm a student and tutor at UNC Charlotte, studying Mathematics and Data Science! (Spring '26)
-- 🔭 I’m currently working as an undergraduate researcher, performing data analytics on health metrics in R.
+- 🔭 I’m currently working as an Automation and Data Management Intern at Brandsymbol.
+- I recently completed undergraduate research, performing data analytics on health metrics in R.
 - 📫 How to reach me: darrentsumm@gmail.com
 <!--
 **darrentsumm/darrentsumm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
