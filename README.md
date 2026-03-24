@@ -1,6 +1,6 @@
 ## Hello 👋
 My name is Darren Summerlee, and I'm a student and tutor at UNC Charlotte, studying Data Science and Mathematics! (Spring '26)
-- I recently completed two internships helping Brandsymbol transition towards a data-focused workplace [newsletter](https://www.einpresswire.com/article/829208511/brandsymbol-launches-mosaiq-ai-powered-platform-transforming-pharma-brand-naming)
+- I recently completed two internships helping Brandsymbol transition towards a data-focused workplace [(View Newsletter)](https://www.einpresswire.com/article/829208511/brandsymbol-launches-mosaiq-ai-powered-platform-transforming-pharma-brand-naming)
 - I recently completed undergraduate research, performing data analytics on health metrics in R.
 - 📫 How to reach me: darrentsumm@gmail.com
 <!--
