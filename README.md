@@ -1,7 +1,8 @@
 ## Hello 👋
-My name is Darren Summerlee, and I'm a student and tutor at UNC Charlotte, studying Data Science and Mathematics! (Spring '26)
+My name is Darren Summerlee, and I'm a recent graduate from UNC Charlotte, where I studied Data Science and Mathematics! (Spring '26)
+- I'm currently a Business/Systems Analyst with Apex Systems on contract, supporting the Location Lifecycle department at Spectrum (Jul-Sep)
 - I recently completed two internships helping Brandsymbol transition towards a data-focused workplace [(View Newsletter)](https://www.einpresswire.com/article/829208511/brandsymbol-launches-mosaiq-ai-powered-platform-transforming-pharma-brand-naming)
-- I recently completed undergraduate research, performing data analytics on health metrics in R.
+- I also served as an undergraduate researcher in 2025, performing data analytics on health metrics in R.
 - 📫 How to reach me: darrentsumm@gmail.com
 <!--
 **darrentsumm/darrentsumm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
